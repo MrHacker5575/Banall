@@ -5,52 +5,52 @@
      "env": { 
        "BOT_TOKEN1": { 
              "description": "", 
-             "value": "6837615457:AAGvJ-g7pLQkBzg4QpRa7raTapRx2ow9ZqI", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN2": { 
              "description": "", 
-             "value": "6926148427:AAHtd8zwv9dmgJHVkQ7fKpQ1qpdskkTmrS8", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN3": { 
              "description": "", 
-             "value": "6739590937:AAESAIKVf5RJz_zUDRKAPAJdTdzOwDwGIkM", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN4": { 
              "description": "", 
-             "value": "6942368987:AAFTB8d4ZQgWv64N1dSFAoqAL5muJRUeRJk", 
+             "value": "", 
              "required": true
          }, 
          "BOT_TOKEN5": { 
              "description": "", 
-             "value": "6402809633:AAG2Ftt0T5gRB9BcGOyrjNzCeOH_QWdnc_4", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN6": { 
              "description": "", 
-             "value": "6828957005:AAEHfXw9TRhLlWTSgTwJAExypgIEsyQ7E6Y", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN7": { 
              "description": "", 
-             "value": "6988555102:AAHJeutJmmy_W7zt1VAT5z9F2PtLoCt0PN4", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN8": { 
              "description": "", 
-             "value": "6891011537:AAEb0YSPX71XuB9cQlFjjEN-g1Ujv73Dw1Y", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN9": { 
              "description": "", 
-             "value": "6824935332:AAHnO9SX6HRixjUS3VKCmLjMppjShplTt-c", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN10": { 
              "description": "", 
-             "value": "6932499137:AAE8t40SotQv5OTgAmlk0Fc0T_n3epvTQYQ", 
+             "value": "", 
              "required": true 
          }, 
          "SUDO": { 
