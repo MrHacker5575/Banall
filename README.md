@@ -9,7 +9,7 @@
   
   # Commands  
   - ping  
-  - banall  
+  - banall , Play  
   - unbanall  
   - kickall  
   - leave   
