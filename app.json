@@ -5,52 +5,53 @@
      "env": { 
        "BOT_TOKEN1": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN2": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN3": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN4": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFehopyrogram.types", 
+               "value":
+"6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true
          }, 
          "BOT_TOKEN5": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN6": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN7": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN8": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A",
              "required": true 
          }, 
          "BOT_TOKEN9": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "BOT_TOKEN10": { 
              "description": "", 
-             "value": "6320961205:AAF26oykNnsRfKTcEvLDmR2AIJ7K8YZFeho", 
+             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
              "required": true 
          }, 
          "SUDO": { 
