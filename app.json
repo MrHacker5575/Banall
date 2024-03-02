@@ -5,7 +5,7 @@
      "env": { 
        "BOT_TOKEN1": { 
              "description": "", 
-             "value": "6320961205:AAEvEBsja0EtGY1yrrfwb3hkJLRUJFaSx9A", 
+             "value": "", 
              "required": true 
          }, 
          "BOT_TOKEN2": { 
